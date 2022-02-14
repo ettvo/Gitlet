@@ -1,0 +1,22 @@
+> init
+<<<
+> branch other
+<<<
++ c.txt c.txt
++ d.txt d.txt
+> add c.txt
+<<<
+> commit "added c.txt"
+<<<
+> add d.txt
+<<<
+> commit "added d.txt"
+<<<
+> checkout other
+<<<
+* c.txt
+* d.txt
+> checkout master
+<<<
+E c.txt
+E d.txt

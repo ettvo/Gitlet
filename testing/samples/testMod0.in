@@ -1,0 +1,11 @@
+> init
+<<<
++ nct.txt a.txt
++ b.txt c.txt
+> add nct.txt
+<<<
+> add b.txt
+<<<
+> commit "Added nct.txt, b.txt"
+<<<
+I blank-status.inc

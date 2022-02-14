@@ -1,0 +1,22 @@
+> init
+<<<
++ nct.txt a.txt
+> add nct.txt
+<<<
+> commit "nct.txt commit"
+<<<
+> branch yespls
+<<<
+> checkout yespls
+<<<
++ b.txt c.txt
+> add b.txt
+<<<
+> commit "b.txt commit"
+<<<
+> checkout master
+<<<
+* b.txt
+> checkout yespls
+<<<
+E b.txt
